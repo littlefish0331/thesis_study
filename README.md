@@ -4,6 +4,13 @@
 有些論文可能進行中，  
 如果看完之後要開project，再移出到該檔案夾的 reference/
 
+## 存放
+
+- 語言模型簡繁轉換
+- 一种改进的KEA关键词抽取算法研究
+- 報告-三天沒洗澡
+- 利用RankNet排序結果推論突變發生之先後關係
+
 ## 目前進行中的論文
 
 - 01_Optimized_Chinese_Address_Matching/
